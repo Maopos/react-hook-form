@@ -1,5 +1,7 @@
 //import Formulario from "./components/Formulario";
-import Formulario2 from "./components/Formulario2";
+//import Formulario2 from "./components/Formulario2";
+import Regex from "./components/Regex";
+
 import "./App.css";
 
 function App() {
@@ -7,7 +9,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         {/* <Formulario /> */}
-        <Formulario2/>
+        {/* <Formulario2/> */}
+        <Regex />
       </header>
     </div>
   );
